@@ -1,0 +1,23 @@
+{
+  "name": "week-12-project",
+  "version": "1.0.0",
+  "description": "# Description - build CRUD application - using a backing array and dictionary to hold data - user should be able to create, modify, and delete data - this is a basic workout program application - user can add, modify, and remove exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smiller3033/promineo-tech-week-12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smiller3033/promineo-tech-week-12/issues"
+  },
+  "homepage": "https://github.com/smiller3033/promineo-tech-week-12#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3"
+  }
+}
