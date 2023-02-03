@@ -1,3 +1,10 @@
+/*This code structure is largely inspired by the week 12 CRUD app tutorial.
+The code is heavily modified however to utilize the backing array in all of the methods and classes.
+The mockAPI was attempted at first but was not utilized as the URL did not return a list of endpoints. It just returned 404.
+Time constraint led to the decision to move to a backing array for this project. The next project will make use of an API.
+Bootstrap is still the tool used to style this webpage.
+The base classes contain all of the necessary information of a workout. They can be expanded upon in the future.
+*/
 let backingArray = [];
 
 class Workout {
